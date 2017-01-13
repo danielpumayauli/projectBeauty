@@ -1,0 +1,17 @@
+{
+  "name": "css-test-danielpumayauli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: test no especificado\" && exit 1"
+  },
+  "author": "css-test-danielpumayauli",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.10.0",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-sass": "^2.1.1"
+  }
+}
